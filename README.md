@@ -4,5 +4,5 @@ permits in Casco Bay
 
 This is principally a GIS data archive.  The combination of recent and 
 older versions of Maine DMR aquaculture licenses and permits data, 
-allows assessment and documantation of changes in locations and
+allows assessment and documentation of changes in locations and
 numbers over time.
